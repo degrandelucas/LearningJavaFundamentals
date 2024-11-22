@@ -142,10 +142,13 @@ public class CalculoDesconto {
 ```
 
 ## Descrição
-O preço original e o percentual de desconto são definidos.
-O valor do desconto é calculado.
-O novo preço, após o desconto, é exibido junto com os detalhes do cálculo.
-Tecnologias Utilizadas
-Java: Linguagem de programação usada para desenvolver os exercícios.
-IDE IntelliJ IDEA: Ferramenta de desenvolvimento para editar e executar os códigos.
-Autor
+- O preço original e o percentual de desconto são definidos.
+- O valor do desconto é calculado. 
+- O novo preço, após o desconto, é exibido junto com os detalhes do cálculo.
+
+### Tecnologias Utilizadas
+- Java: Linguagem de programação usada para desenvolver os exercícios.
+-  IntelliJ IDEA: Ferramenta de desenvolvimento para editar e executar os códigos.
+
+### Autor
+- Lucas Degrande
